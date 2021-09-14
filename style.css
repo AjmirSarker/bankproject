@@ -1,0 +1,41 @@
+body{
+    padding: 100px;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+.submit-area{
+    margin: 50px;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
+}
+.go{
+    border-radius: 115px;
+}
+.go:hover{
+    background-color: white;
+    color: teal;
+}
+#transaction-area{
+    display: none;
+   
+}
+.balance{
+    background-color: orange;
+    
+}
+.deposit{
+    background-color:slateblue;
+    
+}
+.withdraw{
+    background-color:lightsalmon;
+   
+}
+.status{
+    margin: 0 20px;
+    text-align: center;
+    padding:10px 0;
+    border-radius: 10px;
+    color: white;
+    box-shadow: 3px 3px 10px cyan;
+}
